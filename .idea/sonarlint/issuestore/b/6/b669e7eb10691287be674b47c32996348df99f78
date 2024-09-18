@@ -1,0 +1,17 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ²Ñƒ8¨–à¥‚2
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…˜ÔÓ8¨–à¥‚2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÂšã8°²»2J$8a6184a3-ad3e-437d-a805-dc741a27ae8d
+r	java:S106"+Replace this use of System.out by a logger.(€¯†×ıÿÿÿÿ8Ğ²»2J$3f26f11e-2344-440f-85a0-de8ba55f7e58
+m	java:S106"+Replace this use of System.out by a logger.(­ –8Ğ²»2J$f333fe5e-23a2-471c-812e-2539814ec136
+m	java:S106"+Replace this use of System.out by a logger.(Üú¹8Ğ²»2J$4d13cc1d-fc66-4279-b153-f674fb9b8f46
+l	java:S106"+Replace this use of System.out by a logger.(ˆÍ™T8Ğ²»2J$65a6172f-f666-4c7d-bc1c-7e117fc9b3d1
+F	java:S106"+Replace this use of System.out by a logger.(ˆÍ™T8¸–à¥‚2
+L	java:S106"+Replace this use of System.out by a logger.(ÍİŞÚÿÿÿÿÿ8¸–à¥‚2
+I
+java:S1481 ",Remove this unused "$creflo" local variable.(…˜ÔÓ8¸–à¥‚2
+L	java:S106#"+Replace this use of System.out by a logger.(ï¤ğ¦ùÿÿÿÿ8¸–à¥‚2
+I
+java:S1481%"'Remove this unused "v1" local variable.(ßâ¿ÿÿÿÿÿ8¸–à¥‚2
+D
+java:S1481'"'Remove this unused "v2" local variable.(Ãè“ô8¸–à¥‚2

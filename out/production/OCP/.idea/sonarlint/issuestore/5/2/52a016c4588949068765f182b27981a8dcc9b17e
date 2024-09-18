@@ -1,0 +1,21 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ³«ıøÿÿÿÿ8Ç˜Êà2J$5299b00c-fc92-40ae-bd64-538fca1ff197
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨¶Ê8Ç˜Êà2J$219ef0e4-9b99-442a-af7f-7a991db0b53d
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë¬À^8Ç˜Êà2J$0b766574-f9ee-4c6b-8da5-4d50c07dfaef
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–îúıÿÿÿÿ8Ç˜Êà2J$496d4204-de91-42fd-b481-395cabf6e40d
+Ä
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½”Ì 8Ç˜Êà2J$1cd46c67-9c9b-45f4-bb20-21c4348fb14d
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óš”şÿÿÿÿ8Ç˜Êà2J$ba57f255-bb6c-43ce-969a-53962c754125
+k
+java:S1172"(Remove this unused method parameter "a".(ƒ††8Ç˜Êà2J$6cf1119a-bf83-458e-b1ae-1e1d3dbcb426
+j
+java:S1172"(Remove this unused method parameter "i".(Ş“8Ç˜Êà2J$95c85ade-5b96-446f-b886-d71b89639c51
+m	java:S106"+Replace this use of System.out by a logger.(ÀÔØ†8Ç˜Êà2J$5053397d-06b0-432b-8170-1b381208683c
+k
+java:S1172"(Remove this unused method parameter "a".(ßÃ²Ü8Ç˜Êà2J$b153030f-dd9b-40b2-a059-78af4b7c6044
+m	java:S106"+Replace this use of System.out by a logger.(«õ¹€8Ç˜Êà2J$9a4a919d-ea3e-4d0d-bda6-7bbdda7c76d0
+r	java:S106"+Replace this use of System.out by a logger.(›”Áıÿÿÿÿ8Ö‘Ğà2J$273aa1ef-ddeb-4b13-af12-b1fc5c477c19

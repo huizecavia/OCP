@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÚ³à8øˆÀÃ›2J$f3826f68-3428-4e55-90b0-55f17a6483d3
+€
+java:S1854	"8Remove this useless assignment to local variable "bird".(…†Ó…ùÿÿÿÿ8øüÀÃ›2J$19a79741-39f7-4197-bcda-54d291419ffe
+q
+java:S1481	")Remove this unused "bird" local variable.(…†Ó…ùÿÿÿÿ8ùüÀÃ›2J$1ab1f4db-d5a6-4a96-8ddb-5086a2df350b
+~	java:S125
+"<This block of commented-out lines of code should be removed.(“Ì¾ë8ùüÀÃ›2J$e868d36e-bdbf-4ff6-8f56-338f40489883

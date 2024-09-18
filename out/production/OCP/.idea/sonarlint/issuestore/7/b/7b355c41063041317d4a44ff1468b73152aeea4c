@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÂšã8ìúÈß‚2J$081da26a-d9d2-433c-b624-5d97342d5e54
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œ³Ÿí8ìúÈß‚2J$1b881209-6c07-4356-b2a9-5fde2bfacb11
+o
+java:S1172",Remove this unused method parameter "niets".(œ³Ÿí8ìúÈß‚2J$c7e782a1-2079-4a02-9245-c4dcc5eaf06f
+q
+java:S1481")Remove this unused "boo2" local variable.(¿ä½ıÿÿÿÿ8üúÈß‚2J$0ea89c24-6190-43d3-9f21-d3b8188ee989
+q
+java:S1481"/Remove this unused "moetLokaal" local variable.(¶âÜ8üúÈß‚2J$607d21d9-cf9b-4e44-9b65-75e18fa48b07
+‚
+java:S6213":Rename this variable to not match a restricted identifier.(şş†¡ÿÿÿÿÿ8üúÈß‚2J$34066718-7e48-497b-875b-20bd1f48eaf4

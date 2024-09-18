@@ -1,0 +1,23 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªš…Ïùÿÿÿÿ8øÞ­Üž2J$f324ca67-3c4f-47a0-a7b4-204cd289c84a
+l
+java:S1172"*Remove this unused method parameter "age".(Æ€û-8øÞ­Üž2J$655b16be-a93c-4079-9ddd-d8582114aa11
+p
+java:S1172"(Remove this unused method parameter "h".(®òü¥üÿÿÿÿ8øÞ­Üž2J$a47e01e1-9d63-49e1-8dae-40e6b3f572c5
+m
+java:S1172"*Remove this unused method parameter "age".(®ó‘ê8øÞ­Üž2J$edfdef96-c6e9-4527-b594-503f24cf2c44
+‰
+java:S1172"ARemove these unused method parameters "newname", "favoriteFoods".(¿ßÆáøÿÿÿÿ8øÞ­Üž2J$e81b0e04-6abc-4160-8dcf-1fe41325ed7b
+r	java:S106"+Replace this use of System.out by a logger.(êº±•ùÿÿÿÿ8øÞ­Üž2J$b66e4fed-e052-4a5a-99f7-b74eeac090c5
+r	java:S106"+Replace this use of System.out by a logger.(Àæîãûÿÿÿÿ8øÞ­Üž2J$52efdf8d-d8e8-4189-a1c3-df465d77dba3
+m	java:S106"+Replace this use of System.out by a logger.(ØÌË´8øÞ­Üž2J$c08aff57-04e8-4cba-a54a-93d5d3e25394
+m	java:S106"+Replace this use of System.out by a logger.(”ì»ü8øÞ­Üž2J$c662170d-abc5-4fa5-a849-436b247bbcc2
+m	java:S106 "+Replace this use of System.out by a logger.(ÄÞÇë8øÞ­Üž2J$c56906a4-3e6a-4cc1-adbb-bdf565b113cd
+m	java:S106!"+Replace this use of System.out by a logger.(³úÆû8øÞ­Üž2J$77219f57-3226-40a6-a897-80f06065cb00
+r	java:S106""+Replace this use of System.out by a logger.(¬©ü‚ûÿÿÿÿ8ü¿°Üž2J$7eb8daf2-2171-4421-88b1-8b4abb7f945a
+•
+java:S5669""MCast this argument to 'String' to pass a single element to the vararg method.(¬©ü‚ûÿÿÿÿ8øÞ­Üž2J$916de35f-e95b-45dd-8ea5-eb8c6300a7bf
+r	java:S106#"+Replace this use of System.out by a logger.(þú¡òþÿÿÿÿ8¨¾±Üž2J$ccb8ba17-c87a-4955-8acd-a41e45d393fa
+€
+java:S3878#"8Remove this array creation and simply pass the elements.(þú¡òþÿÿÿÿ8®Ž¶Üž2J$da14658d-297e-4a44-83ae-b41c330324d4
+m	java:S106$"+Replace this use of System.out by a logger.(üÔ©ÿ8‚¤·Üž2J$8c253589-2c68-4fff-81d3-470437190350

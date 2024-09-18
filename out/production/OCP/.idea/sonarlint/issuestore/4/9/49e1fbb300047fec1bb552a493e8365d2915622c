@@ -1,0 +1,41 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ³«ýøÿÿÿÿ8²Í¸½œ2J$4c18e347-d427-4653-98ff-a3ca3129a845
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›÷•œ8²Í¸½œ2J$7805c1b2-10c4-417c-abc8-8ae191a696f7
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®âÐó8²Í¸½œ2J$0bbb3292-2be7-4e5c-84a9-56a2ca8a5809
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( éð¦8²Í¸½œ2J$61c3a9cc-d7eb-4104-acd6-c9a70120f450
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏÀÇ¼øÿÿÿÿ8²Í¸½œ2J$353dc192-3e58-4bd6-8adf-0d5df7ee4653
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïµû‡8²Í¸½œ2J$2d910f54-d32c-4951-abae-982ba16f2279
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÝçŸÃÿÿÿÿÿ8²Í¸½œ2J$92c7b225-8ed3-4c5e-9845-4c9c93f8ed9c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(­øé„øÿÿÿÿ8ÁÍ¸½œ2J$8a06c04c-f9ac-41d3-ad41-d040757c4b69
+~	java:S125"<This block of commented-out lines of code should be removed.(•ºÚù8ÁÍ¸½œ2J$54d702e6-9e2f-4d1e-b38b-c95c47070fa7
+~	java:S125#"<This block of commented-out lines of code should be removed.(ºÎõ§8ÁÍ¸½œ2J$e145d37c-3e1e-4a6c-a783-0a917d82774f
+Q
+java:S18542"5Remove this useless assignment to local variable "b".(‰¢Ü}8µªÁ·2
+~
+java:S1854."6Remove this useless assignment to local variable "c6".(æÎÖ‚ûÿÿÿÿ8ÁÍ¸½œ2J$633dd699-ce30-4df2-8276-0e4f9f696534
+~
+java:S1854-"6Remove this useless assignment to local variable "c5".(êÀÞØúÿÿÿÿ8ÁÍ¸½œ2J$195f7b22-3f51-4fce-a819-1a110711a069
+~
+java:S1854,"6Remove this useless assignment to local variable "c4".(ñ—‘ýÿÿÿÿ8ÁÍ¸½œ2J$9e24e096-63fb-4135-a724-f16ab938459f
+o
+java:S1481,"'Remove this unused "c4" local variable.(ñ—‘ýÿÿÿÿ8ÁÍ¸½œ2J$1d9dd01a-f2e3-4194-bb44-7fe62be0cb04
+o
+java:S1481-"'Remove this unused "c5" local variable.(êÀÞØúÿÿÿÿ8ÁÍ¸½œ2J$ef6aafcb-60cf-42ec-8c91-a73669c8774b
+o
+java:S1481."'Remove this unused "c6" local variable.(æÎÖ‚ûÿÿÿÿ8ÁÍ¸½œ2J$bcc587f0-b93b-4567-ab0b-1cb2f82f4d27
+r	java:S106/"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8ÁÍ¸½œ2J$50bdf1ee-f78c-43dc-9a04-350296ecc35e
+B
+java:S14812"&Remove this unused "b" local variable.(‰¢Ü}8µªÁ·2
+r	java:S1063"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8Å”»½œ2J$929e67f6-fdd1-4886-8d0d-d2c06c08da8c
+j
+java:S1068"'Remove this unused "tel" private field.(›÷•œ8ÁÍ¸½œ2J$221442ab-af68-47cb-8c63-d26e58be6653
+i
+java:S1068"&Remove this unused "a1" private field.(®âÐó8ÁÍ¸½œ2J$7af04c82-b611-445c-a177-de5713998d94
+n
+java:S1068"&Remove this unused "a3" private field.(ÏÀÇ¼øÿÿÿÿ8ÁÍ¸½œ2J$961f30ff-c47f-4e2a-82ce-8d823a2c9626
+j
+java:S1068"'Remove this unused "one" private field.(ÑŽÒ‹8ÁÍ¸½œ2J$132333d6-f832-4e0b-8e4f-b502d1fbd642
+j
+java:S1068"'Remove this unused "two" private field.(ïµû‡8ÁÍ¸½œ2J$1c38347b-a754-46ab-b4a6-31247be27953
+q
+java:S1068")Remove this unused "three" private field.(ÝçŸÃÿÿÿÿÿ8ÁÍ¸½œ2J$1262f057-f427-4a57-ac30-1a9d98b42e8c

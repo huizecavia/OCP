@@ -1,0 +1,16 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇéÇ8Åõ’Ü2J$7aa44a04-48a3-4f54-9ae6-aeb8563e1b81
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªš…Ïùÿÿÿÿ8Åõ’Ü2J$ece1de1f-7c72-40b0-9572-5899493ca555
+˜	java:S116	"QRename this field "Insect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ëß½ûÿÿÿÿ8æù”Ü2J$921b77b4-60f4-42fe-b1da-ecea40fb3081
+z
+java:S2387
+"2"numberOfLegs" is the name of a field in "Insect".(ÆÑµçøÿÿÿÿ8Åõ’Ü2J$922392b3-8efb-42d2-b1de-83e2e2df3e95
+y
+java:S1172"7Remove these unused method parameters "Int", "integer".(ÇéÇ8Ä‚”Ü2J$664a109c-80f8-48c3-a49a-f08965ea5488
+r	java:S106"+Replace this use of System.out by a logger.(­Š÷êùÿÿÿÿ8Åõ’Ü2J$32169d78-ba78-4fbb-8c16-306f271ee1cf
+r	java:S106"+Replace this use of System.out by a logger.(Ó¡Üıÿÿÿÿ8Õõ’Ü2J$52aafded-536e-4b30-bfa5-aa1858949256
+r	java:S106"+Replace this use of System.out by a logger.(ˆ ëÌşÿÿÿÿ8Õõ’Ü2J$27eec3d7-fc1a-4dfa-a8f8-1774a79c8a60
+m	java:S106"+Replace this use of System.out by a logger.(Ù¯ğ8Õõ’Ü2J$cc634c77-806e-44db-b924-756b3bee00d3
+~	java:S125"<This block of commented-out lines of code should be removed.(Â´Ä¥8Õõ’Ü2J$c3dc7ea9-be09-4007-a6db-f44aa9fabdbe
+r
+java:S1068	"*Remove this unused "Insect" private field.(•Ëß½ûÿÿÿÿ8æù”Ü2J$83739f1f-788a-49d6-a474-83fd01297ab3

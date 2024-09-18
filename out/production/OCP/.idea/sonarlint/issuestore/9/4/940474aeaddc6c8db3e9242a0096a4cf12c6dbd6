@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßåÞ•øÿÿÿÿ8°ÿ§¸‹2J$333624b4-9999-4010-a9e8-d7612f98c290
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Çµí‘8°ÿ§¸‹2J$972c8e81-2579-4678-9e68-785646442f2d
+~
+java:S1119	";Refactor the code to remove this label and the need for it.(”Ï‚‡8°ÿ§¸‹2J$479aa57c-8207-4a62-9af9-7331cda740b3
+k	java:S106"+Replace this use of System.out by a logger.(ÇðX8°ÿ§¸‹2J$96741eac-636d-48f7-aee0-7319be4df9b4
+k	java:S106"+Replace this use of System.out by a logger.(ÇðX8Àÿ§¸‹2J$480272d2-956d-4421-a998-bad38b697abc
+~
+java:S1119";Refactor the code to remove this label and the need for it.(Ö·¦Å8Àÿ§¸‹2J$f548d38b-fdee-4b42-b329-bec0142a211c
+\
+java:S1065"Remove this unused label.(Ö·¦Å8¯§®¸‹2J$eeeb171a-8c7d-41b0-ab20-3a00a20a2262
+m	java:S106""+Replace this use of System.out by a logger.(å¹î«8Àÿ§¸‹2J$fd338540-f451-4f99-a4aa-5680fa9e1167
+~
+java:S1119&";Refactor the code to remove this label and the need for it.(Ö·¦Å8Þ¨·¸‹2J$6cd58076-ed7b-48d7-bc55-2ef1c9c1b92b
+\
+java:S1065&"Remove this unused label.(Ö·¦Å8Þ¨·¸‹2J$bb896b5a-338d-424c-95b3-d8caa4ac5f4b
+m	java:S106+"+Replace this use of System.out by a logger.(å¹î«8Þ¨·¸‹2J$ea1ddf05-a2bc-4d2b-86a8-90d2f6a6290f

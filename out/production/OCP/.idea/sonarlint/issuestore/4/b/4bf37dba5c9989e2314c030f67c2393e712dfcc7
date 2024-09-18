@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΕΆη‰8Επ« 2
+m
+java:S3008"PRename this field "COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‡Ρ©8Επ« 2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(³ρ½όώÿÿÿÿ8®Επ« 2
+L	java:S106"+Replace this use of System.out by a logger.(³ρ½όώÿÿÿÿ8®Επ« 2
+L	java:S106"+Replace this use of System.out by a logger.(² ÿ–όÿÿÿÿ8®Επ« 2
+G	java:S106"+Replace this use of System.out by a logger.(°³ώ8®Επ« 2

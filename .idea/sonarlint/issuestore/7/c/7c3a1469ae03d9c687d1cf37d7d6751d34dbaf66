@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ³«ıøÿÿÿÿ8í»¸”œ2J$13f0862d-19f1-454c-8eab-5db4cb11edeb
+”
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(ëª™Š8í»¸”œ2J$8a988ac1-fe4b-40c5-a91c-5d19d44eea04
+”
+java:S1104"QMake total a static final constant or non-public and provide accessors if needed.(É›Í©8í»¸”œ2J$65ccf8c6-7584-417c-9201-30b3695200a9
+n
+java:S1444"+Make this "public static count" field final(ëª™Š8í»¸”œ2J$dec8d07c-2a35-49ee-8814-e1a145e6dd80
+~
+java:S2696	"6Make the enclosing method "static" or remove this set.(ëæûÿÿÿÿÿ8í»¸”œ2J$c0f64e3b-c6cb-4f63-a40d-76ca154de3d9
+}	java:S125"<This block of commented-out lines of code should be removed.(õïÆ78í»¸”œ2J$98d18bf1-543f-407e-b785-88bce784245c
+~	java:S125"<This block of commented-out lines of code should be removed.(’Ö¦¹8ê´¹”œ2J$7fd82483-56de-4c8a-ab89-a3aa9279ffd7

@@ -1,0 +1,24 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ³«ýøÿÿÿÿ8©ãÉê›2J$b4b7112c-e957-4f4a-8627-29c061b46a9c
+~
+java:S2696
+"6Make the enclosing method "static" or remove this set.(ë·±«úÿÿÿÿ8¹ãÉê›2J$9ffe1821-1bbc-403e-9d47-8d929954806a
+}
+java:S2209
+"5Change this instance-reference to a static reference.(ë·±«úÿÿÿÿ8¹ãÉê›2J$bfb4b118-d84c-4106-bd52-54f0e1e940fe
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(í¬•òýÿÿÿÿ8ØãÉê›2J$aacd7d77-bb3f-4450-9538-7801014db17d
+œ
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(œûëó8ØãÉê›2J$950cf621-a9fe-43e2-8d77-130ad0e0e639
+r	java:S106"+Replace this use of System.out by a logger.(¨²Øæúÿÿÿÿ8ØãÉê›2J$0b459603-01e5-4026-b65a-949a2010914a
+r	java:S106"+Replace this use of System.out by a logger.(¨²Øæúÿÿÿÿ8ØãÉê›2J$84e082db-b799-4cab-a1a9-f96abf91a269
+}
+java:S2209"5Change this instance-reference to a static reference.(ôÁó÷ÿÿÿÿÿ8ØãÉê›2J$588dcfd1-c393-47dd-9d65-97828df5453c
+r	java:S106"+Replace this use of System.out by a logger.(ºö‚’ýÿÿÿÿ8ØãÉê›2J$b15a169a-8ad6-4afa-aa18-ffd119f01e7d
+}
+java:S2209"5Change this instance-reference to a static reference.(ºö‚’ýÿÿÿÿ8ØãÉê›2J$df245e29-9e29-4e11-bfca-aeb69bd402d8
+m	java:S106 "+Replace this use of System.out by a logger.(†•»Ù8ØãÉê›2J$54638484-8ce3-4a69-aa15-93cfbe73e8f6
+r	java:S106!"+Replace this use of System.out by a logger.(ƒäÂ¾ùÿÿÿÿ8ØãÉê›2J$b6995ed8-fe3c-4378-8c7b-2126cd4900ba
+}
+java:S2209!"5Change this instance-reference to a static reference.(ƒäÂ¾ùÿÿÿÿ8ØãÉê›2J$79d1cb31-7ee5-4e1a-bd94-61e58b9cd704
+r	java:S106""+Replace this use of System.out by a logger.(Æîéçûÿÿÿÿ8ØãÉê›2J$423869e6-dd5f-47d4-ad3b-30ec8d8ad458
+]	java:S125$"<This block of commented-out lines of code should be removed.(Š™æ‡þÿÿÿÿ8ýÁÒê›2

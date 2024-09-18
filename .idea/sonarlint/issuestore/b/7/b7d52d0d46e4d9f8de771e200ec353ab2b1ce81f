@@ -1,0 +1,41 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ïâ—8»ÅÂÿ„2J$0d61478d-d449-41ec-9b74-2dd170092f25
+}
+java:S1854"5Remove this useless assignment to local variable "m".(¿É‰€şÿÿÿÿ8»ÅÂÿ„2J$67a0db6d-caff-41c5-9627-3d78853bcad9
+x
+java:S1854"5Remove this useless assignment to local variable "l".(©Ò±ˆ8»ÅÂÿ„2J$0ecebfc1-6587-4c0b-935a-4b355c03e91c
+x
+java:S1854"5Remove this useless assignment to local variable "j".(•­Ãú8»ÅÂÿ„2J$eea04c17-6536-4b89-b1a1-47da6fef2485
+}
+java:S1854"5Remove this useless assignment to local variable "g".(ù”Ä”üÿÿÿÿ8»ÅÂÿ„2J$e335aa2d-8e66-4c64-860c-24978e959794
+}
+java:S1854"5Remove this useless assignment to local variable "f".(‚ŠóÓşÿÿÿÿ8»ÅÂÿ„2J$1fe04a30-3045-4850-aad2-dbad8173dc33
+x
+java:S1854
+"5Remove this useless assignment to local variable "b".(†ñ·ê8»ÅÂÿ„2J$0e4b2779-2c97-482d-b757-fbb6d70b9572
+x
+java:S1854	"5Remove this useless assignment to local variable "c".(Ã¬¿«8»ÅÂÿ„2J$bedea13a-4d16-47fa-84b5-c5e501874998
+}
+java:S1854"5Remove this useless assignment to local variable "a".(ÌŸÔ½üÿÿÿÿ8»ÅÂÿ„2J$734d66e7-9245-49e8-a888-965989d7d1d5
+n
+java:S1481"&Remove this unused "a" local variable.(ÌŸÔ½üÿÿÿÿ8»ÅÂÿ„2J$4f1bcd67-a879-4be7-b497-161d3264305c
+i
+java:S1481	"&Remove this unused "c" local variable.(Ã¬¿«8»ÅÂÿ„2J$90e4a505-9103-4fb9-8ec6-3940015b1007
+i
+java:S1481
+"&Remove this unused "b" local variable.(†ñ·ê8»ÅÂÿ„2J$2d3e568f-1946-44dd-b646-07a9e2dc5457
+n
+java:S1481"&Remove this unused "f" local variable.(‚ŠóÓşÿÿÿÿ8»ÅÂÿ„2J$8fac182e-e8e9-4608-b2a3-aa93173c12d3
+n
+java:S1481"&Remove this unused "g" local variable.(ù”Ä”üÿÿÿÿ8»ÅÂÿ„2J$d68c2c26-a22f-4460-ab17-c7d4744389c1
+i
+java:S1481"&Remove this unused "j" local variable.(•­Ãú8»ÅÂÿ„2J$d6daf90b-301a-401a-bd59-dcb262f2018e
+i
+java:S1481"&Remove this unused "l" local variable.(©Ò±ˆ8»ÅÂÿ„2J$afbc7135-7eea-4b52-b430-e43935f1082c
+n
+java:S1481"&Remove this unused "m" local variable.(¿É‰€şÿÿÿÿ8»ÅÂÿ„2J$297207ad-9fae-41b5-8f96-83e475d9a3a1
+r	java:S106"+Replace this use of System.out by a logger.(…ÑßĞøÿÿÿÿ8˜ÁÆÿ„2J$3866ec23-358b-435f-bc0f-77bec58a38d1
+’
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(…ÑßĞøÿÿÿÿ8õ“Çÿ„2J$1e5ad96b-abec-4904-af55-71de2e77e31b
+r
+java:S1481"*Remove this unused "wacht" local variable.(ÆŸ¡ıÿÿÿÿ8»ÅÂÿ„2J$5319ee36-d760-4958-948a-6fe6393a3bf3

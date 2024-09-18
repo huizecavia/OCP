@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠìÈ«8 ŠÏÃ›2J$fc8b725b-2435-4f86-9346-0e483ed1d5df
+m	java:S106	"+Replace this use of System.out by a logger.(”“î€8¥ŠÏÃ›2J$43bf8f2d-71b2-43cb-b26d-92235fbda186
+r	java:S106"+Replace this use of System.out by a logger.(õŸ¶©ûÿÿÿÿ8µ´ÑÃ›2J$df7ef3ee-d89a-474c-9962-53116f8469d2
+{
+java:S1854"8Remove this useless assignment to local variable "gek2".(É”ÂÈ8›Öé›2J$d3e6902d-e182-4442-a54c-7c4968c82062
+|
+java:S1854"9Remove this useless assignment to local variable "other".(‰±ë½8˜ÄÓé›2J$91e0b602-8d4f-4874-bdd4-ca74d9e61d4c
+m
+java:S1481"*Remove this unused "other" local variable.(‰±ë½8æ´éÃ›2J$1369a084-e9fc-48dc-af83-ac72db0c0f6d
+~	java:S125"<This block of commented-out lines of code should be removed.(ßÒ•õ8æ´éÃ›2J$4b29b4c8-86e8-48a4-a0cd-263a8198c648
+l
+java:S1481")Remove this unused "gek2" local variable.(É”ÂÈ8›Öé›2J$5efa1010-2804-4c43-9e5a-da3e6171377e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(½”¼şÿÿÿÿ8›Öé›2J$93fd1b06-e251-4204-90a5-2e4b1c61ec80
