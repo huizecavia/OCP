@@ -1,4 +1,4 @@
-package Lambda;
+package Lambda.fruit;
 
 public interface FruitInterface {
 
