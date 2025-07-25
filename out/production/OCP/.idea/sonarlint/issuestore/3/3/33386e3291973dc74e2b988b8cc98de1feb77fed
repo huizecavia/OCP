@@ -1,13 +1,13 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Şû8úÆ˜š›2J$8dce127e-4d5c-4474-a44d-8e4d6852eb75
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Şû8úÆ˜š›2J$8d3dbd44-b16b-4868-85fb-17b92078e0b2
 d
-java:S1170"!Make this final field static too.(÷–ãõ8úÆ˜š›2J$bbb4a362-7f7d-4fe4-bdb9-939b79387ac0
+java:S1170"!Make this final field static too.(÷–ãõ8úÆ˜š›2J$a97ffefb-967e-4b37-a4eb-afdf41127e8b
 É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ö©»úÿÿÿÿ8úÆ˜š›2J$339ca360-209f-44d1-8e1f-ab3233def23a
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ö©»úÿÿÿÿ8úÆ˜š›2J$f19d1e03-3eac-4e99-8ec3-52cc72710ddb
 œ
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(‚™è8úÆ˜š›2J$8e96cfbf-5942-45c4-bf17-6ca3d8d39b6b
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(‚™è8úÆ˜š›2J$babe1bcf-e1d4-47bf-a55b-058aa3214724
 h
-java:S1481"&Remove this unused "a" local variable.(ğê¶38úÆ˜š›2J$ac1f2f88-efa1-436c-bd9d-e1d3fcbd767c
+java:S1481"&Remove this unused "a" local variable.(ğê¶38úÆ˜š›2J$5775ff8e-31c4-4ad1-8670-b7b80d08cb33
 n
-java:S1481"&Remove this unused "b" local variable.(¨Øµøÿÿÿÿ8úÆ˜š›2J$04b563a9-0b85-488e-aca1-4ba7b84ad56b
-r	java:S106"+Replace this use of System.out by a logger.(ÍÙÓ²øÿÿÿÿ8úÆ˜š›2J$9201ac1a-b195-4921-9666-bb44631f88ec
+java:S1481"&Remove this unused "b" local variable.(¨Øµøÿÿÿÿ8úÆ˜š›2J$85e1d85d-954e-4921-aede-fd762c968985
+r	java:S106"+Replace this use of System.out by a logger.(ÍÙÓ²øÿÿÿÿ8úÆ˜š›2J$f0ea5f55-2e86-4aa0-8119-d6fe5ed801ae

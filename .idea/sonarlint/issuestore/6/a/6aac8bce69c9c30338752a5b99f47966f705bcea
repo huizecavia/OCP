@@ -1,51 +1,0 @@
-
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨ğ£•8ÉÈÌ“2J$7755e556-5714-4d6d-9255-392c3f8befb7
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÈáÛ8ÉÈÌ“2J$937f8e0c-153a-427a-922d-85d4272d4d25
-|
-java:S1854"9Remove this useless assignment to local variable "space".(´¬ÜÎ8ØÈÌ“2J$223ba3bf-7dde-436d-8c73-cc70d28cb692
-{
-java:S1854
-"8Remove this useless assignment to local variable "vars".(ã¡Üï8ØÈÌ“2J$c3d814f3-eac3-4ab7-88d1-2423a1ae7c23
-
-java:S1854"7Remove this useless assignment to local variable "a2b".(¯Ø¾¬şÿÿÿÿ8ØÈÌ“2J$45920633-ac91-4de5-a7fb-abd267008081
-
-java:S1854"7Remove this useless assignment to local variable "a2a".(Õ¦ı›ûÿÿÿÿ8ØÈÌ“2J$852a38bf-b9d6-48ab-ab71-94c50ba44be8
-z
-java:S1854"7Remove this useless assignment to local variable "min".(šµŠø8ØÈÌ“2J$1fe1f808-b6cb-4999-a4ae-70c8d20886cc
-k
-java:S1659	"#Declare "space" on a separate line.(Ãø–¸ùÿÿÿÿ8ØÈÌ“2J$c5cf7612-3734-48e5-a661-9198709cd35e
-p
-java:S1481"(Remove this unused "a2a" local variable.(Õ¦ı›ûÿÿÿÿ8ØÈÌ“2J$382e36aa-4ebb-4b7f-86d2-e361f696c927
-t
-java:S1197",Move the array designators [][] to the type.(¯Ø¾¬şÿÿÿÿ8ØÈÌ“2J$7c024875-3a1f-4bef-90ad-201000224a52
-p
-java:S1481"(Remove this unused "a2b" local variable.(¯Ø¾¬şÿÿÿÿ8ØÈÌ“2J$758a4b67-ed84-4cba-8225-27201a55f767
-r
-java:S1197	"*Move the array designators [] to the type.(Ãø–¸ùÿÿÿÿ8ØÈÌ“2J$ed9d7f25-cd00-47af-925f-51459d344846
-q
-java:S1481	")Remove this unused "vars" local variable.(Ãø–¸ùÿÿÿÿ8ØÈÌ“2J$3f58eb82-7de9-478e-80d9-49c78d3b141f
-t
-java:S1197	",Move the array designators [][] to the type.(Ãø–¸ùÿÿÿÿ8ØÈÌ“2J$6f02e9ed-6ccd-496a-8845-c328b4a37872
-r
-java:S1481	"*Remove this unused "space" local variable.(Ãø–¸ùÿÿÿÿ8ØÈÌ“2J$929cb3bf-ddc2-47de-8616-7960dd5c824f
-r	java:S106"+Replace this use of System.out by a logger.(¡ÿª™ıÿÿÿÿ8ØÈÌ“2J$1520b5bd-9abd-4e14-83cf-1f9eeec2973a
-r	java:S106"+Replace this use of System.out by a logger.(¾Œ¼Êıÿÿÿÿ8ØÈÌ“2J$17dd76f1-f8c1-4baf-b3fb-b49c3e418e36
-r	java:S106"+Replace this use of System.out by a logger.(‡Îõ´øÿÿÿÿ8ØÈÌ“2J$7713d7f6-dc5e-4523-a108-11107c4d1375
-r	java:S106"+Replace this use of System.out by a logger.(ë¦–‚şÿÿÿÿ8ØÈÌ“2J$7a4f1c6d-186c-496e-9572-99d1e69a18a4
-r	java:S106"+Replace this use of System.out by a logger.(÷üËİúÿÿÿÿ8ØÈÌ“2J$b4412e4c-6c61-49a0-8c0c-f00b2c92a129
-m	java:S106"+Replace this use of System.out by a logger.(´Š”É8ØÈÌ“2J$3adbe22f-7d1e-4110-8df2-08ebd8310bd1
-r	java:S106"+Replace this use of System.out by a logger.(ˆ“÷·øÿÿÿÿ8ØÈÌ“2J$6750f6f5-ab09-4a62-b340-062363db54f4
-k
-java:S1481"(Remove this unused "min" local variable.(šµŠø8ØÈÌ“2J$58541f4d-ca32-4ae9-9f19-9517896ff073
-r	java:S106"+Replace this use of System.out by a logger.(Ôœççıÿÿÿÿ8¼ÿ×“2J$8d04ac2c-5906-44da-9df9-1e1df551a50c
-m	java:S106"+Replace this use of System.out by a logger.(‰·ŸÖ8÷ğÙ“2J$ddb41ae9-b46d-496b-908e-1ec6a6169cb4
-n
-java:S2185"+Remove this unnecessary call to "Math.ceil"(‰·ŸÖ8àéŞ“2J$456c1fcc-c98c-4a05-a5e8-facc115a8a81
-l	java:S106 "+Replace this use of System.out by a logger.(¥·—8Ï×Ú“2J$15309465-6263-406e-8e6d-3f92e45f41d6
-r	java:S106!"+Replace this use of System.out by a logger.(çÁò‹üÿÿÿÿ8äàİ“2J$a2d8503d-c23a-40ce-b9e4-da2745ef64f3
-r	java:S106""+Replace this use of System.out by a logger.(–“’©ÿÿÿÿÿ8àéŞ“2J$0f1548e4-0bab-4021-8dba-847281c466ad
-r	java:S106$"+Replace this use of System.out by a logger.(çÒ³Îùÿÿÿÿ8’Æá“2J$577192ea-8b79-4c7c-8ea4-7d0cd4230ac9
-r	java:S106%"+Replace this use of System.out by a logger.(í©–Şøÿÿÿÿ8Ñ÷â“2J$510c572a-a468-48a1-bb1e-466f38bac4d4
-m	java:S106&"+Replace this use of System.out by a logger.(ÂŞšş8Ñ÷â“2J$92a33b93-d421-4e34-bddf-e4fc14652783
-m	java:S106'"+Replace this use of System.out by a logger.(£¤œà8ÃÌä“2J$b9663274-35f5-4e07-a3ca-3dfb7b4ba456
-m	java:S106("+Replace this use of System.out by a logger.(£¤œà8ôå“2J$7e838118-2d87-4539-b846-fad7eaec3dac

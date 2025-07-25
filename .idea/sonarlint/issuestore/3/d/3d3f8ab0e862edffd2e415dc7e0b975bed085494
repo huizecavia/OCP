@@ -1,25 +1,0 @@
-
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßåŞ•øÿÿÿÿ8‹¥½ ‡2J$ce6c45cb-9f4d-4851-846b-3b2c37b947d5
-i
-java:S1170
-"!Make this final field static too.(½æÜßıÿÿÿÿ8‹¥½ ‡2J$abc0d107-053f-424b-966c-8277e6fc340e
-j	java:S108")Either remove or fill this block of code.(‡’d8‹¥½ ‡2J$eab6314d-af42-48ca-9e7f-e83fafd24d6f
-
-java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‡’d8‹¥½ ‡2J$e7b59d67-98a3-4385-b272-b02773f20460
-c	java:S131""Add a default case to this switch.(‡’d8‹¥½ ‡2J$4b118d2e-eda7-41cd-b625-f26ab6c0aea6
-
-java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(‡’d8‹¥½ ‡2J$11b7aef2-8149-4d6a-9e85-cb72ec317d38
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß´Î§úÿÿÿÿ8‹¥½ ‡2J$4a9d1938-34a5-4224-8ec6-d20708fd50b0
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¢ÿçúÿÿÿÿ8‹¥½ ‡2J$a267ddf4-11dc-43b2-91b0-b0686f8385ec
-r	java:S106#"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8‹¥½ ‡2J$2d575b3e-37cf-4e7c-ba20-24758e0b3d47
-•	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ºêìüÿÿÿÿ8‹¥½ ‡2J$e5301dbf-666b-4ada-bf2f-16b96c6bb25a
-k
-java:S6205*"(Remove this redundant block and "yield".(Ã€Ãš8œÆ¾ ‡2J$09da604f-dcb8-4b84-a0d9-c727da7e0b97
-m	java:S106,"+Replace this use of System.out by a logger.(Áß‡Ü8š¥½ ‡2J$18300e44-0403-4e0e-ac4d-0ca4782b4eb8
-}
-java:S18544"5Remove this useless assignment to local variable "a".(±Éìëùÿÿÿÿ8š¥½ ‡2J$36c3d59f-9b49-4daa-9391-ecae54d67033
-m	java:S1062"+Replace this use of System.out by a logger.(¿´÷Õ8š¥½ ‡2J$cf54d826-ea85-440d-ab26-8ef16409b0e2
-n
-java:S14814"&Remove this unused "a" local variable.(±Éìëùÿÿÿÿ8š¥½ ‡2J$8c63e92f-bdb7-4373-87af-94fabacaaa4a
-r
-java:S1481="*Remove this unused "wacht" local variable.(ÆŸ¡ıÿÿÿÿ8š¥½ ‡2J$b7f35040-2669-4402-af39-429178805405

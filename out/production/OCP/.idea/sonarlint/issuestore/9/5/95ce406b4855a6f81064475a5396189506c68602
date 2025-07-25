@@ -1,12 +1,12 @@
 
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¶ˆ8¶´¸2J$baeb53d5-d14b-4388-87a4-d97173a942e1
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È­«ä8¶´¸2J$4f0046ae-d326-4700-8a48-29db687cbedb
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ³«ıøÿÿÿÿ8¶´¸2J$4634825a-a4c0-4e1d-9d84-83db726ea3d9
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¶ˆ8¶´¸2J$19f2dc51-50a5-4c52-b251-fb36bb387adc
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È­«ä8¶´¸2J$07925684-f117-4b12-8f79-fd732146b6ff
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ³«ıøÿÿÿÿ8¶´¸2J$b7b1fd52-d3b6-4aff-b89b-3cdc5d845e3b
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì¶ˆ8¶´¸2J$b549089e-eb7a-4381-abce-aa6eddd7fd12
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì¶ˆ8¶´¸2J$f3b85dfa-5508-42fc-9959-24109e69b65d
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È­«ä8¶´¸2J$29d0c62f-d06e-468d-adfa-72abf838b6bc
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È­«ä8¶´¸2J$05b3335c-28c9-4c15-bc16-f6ee8bbba72b
 É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Î“Ùıÿÿÿÿ8¶´¸2J$8621a768-f44c-4244-95bd-a91b7e2cb612
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Î“Ùıÿÿÿÿ8¶´¸2J$d9cadaa9-c388-41c0-a0fa-dac26d3ecbff
 _
-java:S1116"Remove this empty statement.(Ì¶ˆ8¶´¸2J$5785210c-92c6-49ba-9ddb-a47a419b7d11
+java:S1116"Remove this empty statement.(Ì¶ˆ8¶´¸2J$872f52ce-8bc0-4c87-9e10-357af0086fc7

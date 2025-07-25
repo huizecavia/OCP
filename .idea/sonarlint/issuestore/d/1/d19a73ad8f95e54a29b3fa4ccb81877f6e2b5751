@@ -1,12 +1,0 @@
-
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ³«ıøÿÿÿÿ8ôŞÙê›2J$f363c934-fd06-4df2-b632-84843f8dd343
-‚
-java:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.( ºÔ8–¤Ûê›2J$96f63550-cecf-4585-abf6-4a55f157960f
-r	java:S106
-"+Replace this use of System.out by a logger.(±Ÿ“Áûÿÿÿÿ8ôŞÙê›2J$09cd20f6-7c8a-4dbf-be3a-c3ac7d4d8f5b
-}
-java:S2209"5Change this instance-reference to a static reference.(€‡Ğ·úÿÿÿÿ8ôŞÙê›2J$06927b54-7a17-4726-9768-a3c858c9f879
-r	java:S106"+Replace this use of System.out by a logger.(±Ÿ“Áûÿÿÿÿ8„ßÙê›2J$8d3209e0-221f-4708-a3f7-00bca634d134
-m	java:S106"+Replace this use of System.out by a logger.( ºÔ8„ßÙê›2J$3a02bfc6-15b5-4ea2-8840-bff11cbc793b
-r	java:S106"+Replace this use of System.out by a logger.(±Ÿ“Áûÿÿÿÿ8µĞÚê›2J$39fd0fec-173a-4b5a-a9dd-ed6da2db14f3
-m	java:S106"+Replace this use of System.out by a logger.( ºÔ8¦¤Ûê›2J$98510eca-38c6-4c57-8938-593397b34797

@@ -1,9 +1,13 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΕΆη‰8Επ« 2
-m
-java:S3008"PRename this field "COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‡Ρ©8Επ« 2
-{
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(³ρ½όώÿÿÿÿ8®Επ« 2
-L	java:S106"+Replace this use of System.out by a logger.(³ρ½όώÿÿÿÿ8®Επ« 2
-L	java:S106"+Replace this use of System.out by a logger.(² ÿ–όÿÿÿÿ8®Επ« 2
-G	java:S106"+Replace this use of System.out by a logger.(°³ώ8®Επ« 2
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΕΆη‰8Επ« 2J$d4be362f-fd8e-4fbe-906c-5f31649e9a1d
+“
+java:S3008"PRename this field "COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‡Ρ©8Επ« 2J$6748fbfe-6f1c-4290-a2b8-73da6dcbedaa
+
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(―¬ψν8μοώ« 2J$7cc10882-754a-4a94-ba6e-06cb90a2a73d
+m	java:S106"+Replace this use of System.out by a logger.(―¬ψν8®Επ« 2J$63947beb-69bf-418c-8ebe-912014fca916
+r	java:S106	"+Replace this use of System.out by a logger.(²οθωÿÿÿÿ8®Επ« 2J$4f86ace3-4fa8-4ccf-a3c2-8f60f8957b96
+r	java:S106
+"+Replace this use of System.out by a logger.(ΨΔήωÿÿÿÿÿ8Ξσω« 2J$1efc6686-66dc-49d3-bac8-7c645dcb1ba7
+r	java:S106"+Replace this use of System.out by a logger.(χ΄έµώÿÿÿÿ8ξϋ« 2J$838a5b7f-aef8-436e-8bee-fa838e10bec4
+r	java:S106"+Replace this use of System.out by a logger.(²οθωÿÿÿÿ8µΣό« 2J$c2929047-1057-4497-b4c1-895b2a27b835
+r	java:S106"+Replace this use of System.out by a logger.(²οθωÿÿÿÿ8θρό« 2J$6b801054-f32e-4724-96b0-f4eec069fc05

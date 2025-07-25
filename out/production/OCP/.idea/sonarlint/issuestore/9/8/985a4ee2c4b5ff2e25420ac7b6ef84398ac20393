@@ -1,16 +1,16 @@
 
-’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇéÇ8Åõ’Ü2J$7aa44a04-48a3-4f54-9ae6-aeb8563e1b81
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªš…Ïùÿÿÿÿ8Åõ’Ü2J$ece1de1f-7c72-40b0-9572-5899493ca555
-˜	java:S116	"QRename this field "Insect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ëß½ûÿÿÿÿ8æù”Ü2J$921b77b4-60f4-42fe-b1da-ecea40fb3081
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇéÇ8Åõ’Ü2J$5fee6fb7-180e-4940-ae44-25ba6165de56
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªš…Ïùÿÿÿÿ8Åõ’Ü2J$aff43724-37a6-4eb6-8b63-27940d7ba052
+˜	java:S116	"QRename this field "Insect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ëß½ûÿÿÿÿ8æù”Ü2J$da1c270c-1535-4f8a-81a9-0a9ba9552a17
 z
 java:S2387
-"2"numberOfLegs" is the name of a field in "Insect".(ÆÑµçøÿÿÿÿ8Åõ’Ü2J$922392b3-8efb-42d2-b1de-83e2e2df3e95
+"2"numberOfLegs" is the name of a field in "Insect".(ÆÑµçøÿÿÿÿ8Åõ’Ü2J$677eed0c-85fd-4bcc-ba55-b502e4ad74ef
 y
-java:S1172"7Remove these unused method parameters "Int", "integer".(ÇéÇ8Ä‚”Ü2J$664a109c-80f8-48c3-a49a-f08965ea5488
-r	java:S106"+Replace this use of System.out by a logger.(­Š÷êùÿÿÿÿ8Åõ’Ü2J$32169d78-ba78-4fbb-8c16-306f271ee1cf
-r	java:S106"+Replace this use of System.out by a logger.(Ó¡Üıÿÿÿÿ8Õõ’Ü2J$52aafded-536e-4b30-bfa5-aa1858949256
-r	java:S106"+Replace this use of System.out by a logger.(ˆ ëÌşÿÿÿÿ8Õõ’Ü2J$27eec3d7-fc1a-4dfa-a8f8-1774a79c8a60
-m	java:S106"+Replace this use of System.out by a logger.(Ù¯ğ8Õõ’Ü2J$cc634c77-806e-44db-b924-756b3bee00d3
-~	java:S125"<This block of commented-out lines of code should be removed.(Â´Ä¥8Õõ’Ü2J$c3dc7ea9-be09-4007-a6db-f44aa9fabdbe
+java:S1172"7Remove these unused method parameters "Int", "integer".(ÇéÇ8Ä‚”Ü2J$6912cfff-aee7-42e0-9906-b93f3ca033e4
+r	java:S106"+Replace this use of System.out by a logger.(­Š÷êùÿÿÿÿ8Åõ’Ü2J$78defe41-be9b-47f8-bf58-cc6f7f1972e4
+r	java:S106"+Replace this use of System.out by a logger.(Ó¡Üıÿÿÿÿ8Õõ’Ü2J$536b859b-c0bc-437b-a80b-8ca2e39be2da
+r	java:S106"+Replace this use of System.out by a logger.(ˆ ëÌşÿÿÿÿ8Õõ’Ü2J$a55e160c-5bf9-4bee-b456-e10da15ede1f
+m	java:S106"+Replace this use of System.out by a logger.(Ù¯ğ8Õõ’Ü2J$32f96358-9285-4614-b28a-3267f3f31ab1
+~	java:S125"<This block of commented-out lines of code should be removed.(Â´Ä¥8Õõ’Ü2J$aa4c11fd-3115-42eb-97d8-5068e938e581
 r
-java:S1068	"*Remove this unused "Insect" private field.(•Ëß½ûÿÿÿÿ8æù”Ü2J$83739f1f-788a-49d6-a474-83fd01297ab3
+java:S1068	"*Remove this unused "Insect" private field.(•Ëß½ûÿÿÿÿ8æù”Ü2J$5137f9ef-0958-463a-91bd-b9d540f853cb

@@ -1,10 +1,10 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªš…ÏùÿÿÿÿJ$0b377134-08d9-4b04-8b5e-cf4a624b3737
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªš…ÏùÿÿÿÿJ$390f2412-8690-4f3f-b92c-33a0b42b21aa
 «
-java:S4165"cRemove this useless assignment; "color" already holds the assigned value along all execution paths.(¢¨Ùùøÿÿÿÿ8ÜÃê‹2J$f9c5ea9f-071e-46df-b3a1-59e44814070c
+java:S4165"cRemove this useless assignment; "color" already holds the assigned value along all execution paths.(¢¨Ùùøÿÿÿÿ8ÜÃê‹2J$3341ca6a-3b7e-4430-a158-379011184c96
 
-java:S1854"9Remove this useless assignment to local variable "color".(¢¨Ùùøÿÿÿÿ8 âè‹2J$cf052b59-43b9-4a5c-bbed-af435d7542f2
+java:S1854"9Remove this useless assignment to local variable "color".(¢¨Ùùøÿÿÿÿ8 âè‹2J$6e720cdb-d877-445b-a053-3bba99c279d3
 w
-java:S1656"/Remove or correct this useless self-assignment.(¢¨Ùùøÿÿÿÿ8 âè‹2J$aac0d3a5-24a7-4f3c-98f0-840bcff757cd
-m	java:S106"+Replace this use of System.out by a logger.(Êº˜©8áîé‹2J$828815f3-2df9-4222-a7fb-b4ab29bc01c8
-m	java:S106"+Replace this use of System.out by a logger.(Êº˜©8Ëıê‹2J$70eef688-2892-463a-ac92-dc7b0dde34a6
+java:S1656"/Remove or correct this useless self-assignment.(¢¨Ùùøÿÿÿÿ8 âè‹2J$1ae5f2ce-46a1-42ab-8fa3-4d3778745f71
+m	java:S106"+Replace this use of System.out by a logger.(Êº˜©8áîé‹2J$0269e1cb-00de-4c34-9248-5a68b39abbdc
+m	java:S106"+Replace this use of System.out by a logger.(Êº˜©8Ëıê‹2J$d7b89d36-99a3-497a-b1d2-c9f6afc87d7b
