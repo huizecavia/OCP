@@ -11,7 +11,7 @@ public class HapHapSlikSlik {
         BiConsumer<String, Integer> b1 = map::put;
 
         b1.accept("Chicken", 7);
-        b1.accept("Dog", 2);
+        b1.accept("Dog", 3);
 
         System.out.println(map);
 
