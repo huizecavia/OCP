@@ -20,6 +20,6 @@ public class Gorilla {
     }
 
     public int total;
-//    public static double average = total / count;
+    public static double average = new Gorilla().total / count;
 
 }

@@ -1,23 +1,28 @@
 package Five;
 
 public class Giraffe {
-
-    public void eat (Giraffe g) {
+    public void eat(Giraffe g) {
+        allGiraffeComeOut();
+        g.allGiraffeComeOut();
         drink();
-        allGsOnHold();
-        allGsGoHome(new Giraffe());
+        // eat();
+        g.eat(g);
     }
-    public void drink(){}
-    public static void allGsGoHome(Giraffe g) {
-        allGsOnHold();
+
+    public void drink() {};
+    public static void allGiraffeGoHome(Giraffe g) {
+        allGiraffeComeOut();
         new Giraffe().drink();
-//        drink();
-        new Giraffe().eat(new Giraffe());
+        g.eat(g);
     }
-    public static void allGsOnHold() {}
 
-    public static void main(String[] args) {
-        allGsGoHome(new Giraffe());
 
-    }
+   public static void allGiraffeComeOut() {
+        new Giraffe().eat(new Giraffe());   }
+
+
+   public static void main(String[] args) {
+
+
+   }
 }
